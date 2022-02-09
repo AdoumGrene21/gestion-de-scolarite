@@ -1,0 +1,17 @@
+{
+    "name": "dodjid/mvc_model",
+    "authors": [
+        {
+            "name": "Dodjid Grene",
+            "email": "adoumgrene21@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Router\\": "routes/",
+            "App\\": "app/",
+            "Database\\": "database/"
+        }
+    },
+    "require": {}
+}
